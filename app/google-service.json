@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96341253819",
+    "project_id": "accidentalertapp-32de7",
+    "storage_bucket": "accidentalertapp-32de7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96341253819:android:16b90fd37640449c90d39e",
+        "android_client_info": {
+          "package_name": "com.gokul.safetyridingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_BxDickVa5U2vNsb_SBHKlnisnsqOeuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
